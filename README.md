@@ -65,6 +65,3 @@ pnpm start:dev
 
 ## 📜 License
 MIT
-
-🌐 Developed by - 
-🔗 [Swasti Jain](https://swastij.com) 
