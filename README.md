@@ -61,7 +61,7 @@ pnpm start:dev
 
 - Data is returned to the client
 
-  ## WANT TO DIVE MORE? CHECKOUT [MY BLOG](https://swastij.com/blog/nest-rbac-nats)
+  ## WANT TO DIVE MORE? CHECKOUT [THIS BLOG](https://swastij.com/blog/nest-rbac-nats)
 
 ## 📜 License
 MIT
